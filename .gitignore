@@ -1,0 +1,14 @@
+node_modules
+public
+data
+.tmp
+.sass-cache
+.idea
+*.sqlite
+dist
+/server/config/local.env.js
+npm-debug.log
+coverage
+/typings/*
+/server/spec/api.swagger.json
+/server/grunt/swagger/mocks/api-test.swagger.json
